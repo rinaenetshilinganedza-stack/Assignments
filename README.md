@@ -106,4 +106,3 @@ This project demonstrates foundational knowledge required to interpret business 
 
 
 
-⭐ *This project represents my journey in building strong analytics foundations and transitioning into the data analytics field.*
