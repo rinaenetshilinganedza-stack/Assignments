@@ -97,7 +97,6 @@ Understanding analytics terminology is essential for roles such as:
 
 This project demonstrates foundational knowledge required to interpret business data and support data-driven decision making.
 
----
 
 ## 👩‍💻 Author
 
